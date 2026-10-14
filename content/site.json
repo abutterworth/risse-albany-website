@@ -1,0 +1,9 @@
+{
+  "title": "RISSE website starter",
+  "description": "A hello-world prototype for a simple, maintainable RISSE website.",
+  "heading": "Hello, RISSE.",
+  "intro": "This is a working prototype of a website maintained through files, clear patterns, and reviewed changes.",
+  "notice": "Prototype only. Visit the current RISSE website for services and information.",
+  "link_label": "Visit the current RISSE website",
+  "link_url": "https://www.risse-albany.org/"
+}

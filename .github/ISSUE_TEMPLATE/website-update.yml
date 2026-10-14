@@ -1,0 +1,16 @@
+name: Website update
+description: Request a content update for review.
+title: "Website update: "
+body:
+  - type: textarea
+    id: change
+    attributes:
+      label: What should change?
+      description: Identify the page or section and provide the exact approved wording.
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Source and review notes
+      description: Provide public source links or notes. Do not include private client or donor information.
